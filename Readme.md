@@ -1,1 +1,1 @@
-Proyecto para prender GIT
+Proyecto para aprender GIT
