@@ -1,4 +1,3 @@
-print("hello from python")
-#Anadimos comentario
-#Otro comentario
-#otro
+import miprint
+
+miprint.hola_mundo()
